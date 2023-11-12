@@ -1,0 +1,1 @@
+bitget usdt,usdc,币本位以及模拟盘永续合约接口，不再需要修改websocketclient
